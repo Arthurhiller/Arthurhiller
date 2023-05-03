@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Arthurhiller" alt="arkang67" /></a> </p>
 
-- 🔭 Je travail actuellement sur [SfFormation](https://github.com/Arthurhiller/SfFormation)
+- 🔭 Je travail actuellement sur mon projet de fin d'année !
 
 - 🌱 Je suis entrain d'apprendre **Symfony**
 
